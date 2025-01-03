@@ -55,6 +55,7 @@ def edit_valo_config(resolution_x=None, resolution_y=None):
             elif line.startswith('PreferredFullscreenMode='):
                 lines[i] = 'PreferredFullscreenMode=0\n'
             elif line.startswith('HDRDisplayOutputNits'):
+                if not any("FullscreenMode=2" in line for line in lines[lines.index(line):]):
                 lines.insert(i + 1, 'FullscreenMode=2\n')
             
             elif resolution_x and resolution_y:
