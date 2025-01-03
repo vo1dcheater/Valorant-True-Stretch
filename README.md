@@ -46,7 +46,7 @@ A simple tool to properly configure Valorant for stretched resolution without an
 ## Building from Source
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Valorant-True-Stretch.git
+git clone https://github.com/vo1dcheater/Valorant-True-Stretch.git
 
 # Create virtual environment
 python -m venv .venv
