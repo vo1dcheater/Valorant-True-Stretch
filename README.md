@@ -28,10 +28,11 @@ A simple tool to properly configure Valorant for stretched resolution without an
 
 ## How to Use
 1. Download the latest release from the [releases page](../../releases)
-2. Run the program as administrator
-3. Enter your desired resolution (e.g., 1280×960)
-4. Click "Apply Settings"
-5. Launch Valorant and enjoy true stretched resolution!
+2. Change your resolution to the stretched resolution you want to play on from NVIDIA Control Panel before running the tool.
+3. Run the program as administrator
+4. Enter your desired resolution (e.g., 1280×960)
+5. Click "Apply Settings"
+6. Launch Valorant and enjoy true stretched resolution!
 
 ## Important Notes
 - Make sure to close the game before using this tool
@@ -60,6 +61,9 @@ pip install pyinstaller
 # Build executable
 pyinstaller --onefile valo_config.py
 ```
+
+## Need Help?
+If you need help, feel free to contact me on Telegram: [@voidcheater](https://t.me/voidcheater)
 
 ## Contributing
 If you find any issues or have suggestions for improvements, please open an [issue](../../issues) or submit a [pull request](../../pulls).
