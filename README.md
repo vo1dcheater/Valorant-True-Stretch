@@ -13,8 +13,8 @@ A simple tool to properly configure Valorant for stretched resolution without an
       <td align="center"><b>After (true stretched)</b></td>
     </tr>
     <tr>
-      <td><img src="screenshots/before.png" width="300"/></td>
-      <td><img src="screenshots/after.png" width="300"/></td>
+      <td><img src="screenshots/before.png" width="400"/></td>
+      <td><img src="screenshots/after.png" width="400"/></td>
     </tr>
   </table>
 </div>
